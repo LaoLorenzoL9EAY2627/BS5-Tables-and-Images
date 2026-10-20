@@ -1,0 +1,44 @@
+body {
+    background: #7eadd9;
+    background: linear-gradient(90deg, rgba(126, 173, 217, 1) 0%, rgba(70, 136, 156, 1) 100%);
+    background
+    background-size: cover;
+    background-position: center;
+    background-repeat: no-repeat;   
+    min-width: 100vh;
+    height: 100vh;
+}
+
+h1 {
+    font-family: 'Raleway', sans-serif;
+}
+
+h2 {
+    font-family: 'Raleway', sans-serif;
+}
+
+table.table {
+    align-items: center;
+
+}
+
+td {
+    align-items: center;
+    align-content: center;
+    font-family: 'Raleway', sans-serif;
+}
+
+img {
+    width: 60px;
+    height: 60px;
+    background-size: cover;
+    object-fit: cover;
+    border-radius: 5px;
+}
+
+.footer {
+    position: absolute;
+    bottom: 0;
+    left: 0;
+    width: 100%;
+}
